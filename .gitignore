@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local / private
+.env
+.env.*
+*.local
+*.log
+node_modules/
+.claude/
+
+# NOTE: assets/downloads/Resona-latest.apk is intentionally tracked (public download).
